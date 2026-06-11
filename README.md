@@ -46,7 +46,7 @@ vehicle_counter/
 
 ```bash
 # Se tiver Git:
-git clone <url-do-repo>
+[git clone <url-do-repo>](https://github.com/Gomes0106/TrabalhoYoloRua_IA)
 cd vehicle_counter
 
 # Ou baixe o ZIP e extraia
